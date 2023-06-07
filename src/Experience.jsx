@@ -7,7 +7,7 @@ export default function Experience({ computer })
     return <>
         <color attach="background" args={['#161515']} />
 
-        <Environment preset="sunset" />
+        <Environment path="/hdri/" files="venice_sunset_1k.hdr" />
         
         <PresentationControls
             global
