@@ -131,7 +131,7 @@ const ProjectsWindow = ({ close, zIndex }) => {
                         </ProjectDescription>
                         <ButtonsWrapper>
                             <LinkButton onClick={() => {
-                                window.open("https://strawberryui.com")
+                                window.open("https://strawberryui.cogitomachina.com/")
                             }}>
                                 Website
                             </LinkButton>
